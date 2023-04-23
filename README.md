@@ -23,12 +23,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - É **necessário** possuir o **[Node.js](https://nodejs.org/en/)** instalado no computador.
 - É **necessário** possuir o **[Git](https://git-scm.com/)** instalado e configurado no computador para clonar o projeto..
 - Também, é **preciso** ter um gerenciador de pacotes **[NPM](https://www.npmjs.com/)**.
-
-```
-## :memo: Licença
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
 ---
-
-Feito por [Elany Peixoto](https://github.com/develany) com a tutoria de [Ronier Lima](https://github.com/ronierlima).</sup>
+Feito por [Elany Peixoto](https://github.com/develany) com a tutoria de [Ronier Lima](https://github.com/ronierlima).
