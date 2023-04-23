@@ -4,14 +4,14 @@
 <p align="center">
   <a href="#page_with_curl-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#books-requisitos">Requisitos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="http://www.">Acesse Meu Currículo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://digital-react.vercel.app/">Acesse Meu Currículo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </>
 
 ## :page_with_curl: Sobre 
 
 Meu primeiro projeto usando a ferramenta React. Essa aplicação foi realizada durante o curso de  **Full Stack JS**, projeto do professor [Ronier Lima](https://github.com/ronierlima).
 
-Para acessar o meu curriculo acesse [http://www./](http://www./).
+Para acessar o meu curriculo acesse [(https://digital-react.vercel.app/)](https://digital-react.vercel.app/).
 ## :hammer: Tecnologias
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
