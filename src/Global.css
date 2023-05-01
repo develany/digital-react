@@ -1,0 +1,35 @@
+#app {
+    display: flex;
+    gap: 1rem;
+}
+.btn {
+    width: 128px;
+    height: 32px;
+    cursor: pointer;
+    border: none;
+    border-radius: 8px;
+}
+.btn.primary {
+    color: #333333;
+    background-color: #FA9945;
+}
+.btn.primary:hover {
+    color: #000000;
+    background-color: #fa8620;
+}
+.btn.primary:active {
+    color: #000000;
+    background-color: #fa86209c;
+}
+.btn.danger {
+    color: #FFFFFF;
+    background-color: #FA4545;
+}
+.btn.danger:hover {
+    color: #ffffffcb;
+    background-color: #f52c2c;
+}
+.btn.danger:active {
+    color: #ffffffcb;
+    background-color: #f52c2c86;
+}
