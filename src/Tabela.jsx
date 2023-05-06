@@ -5,7 +5,7 @@ function Tabela (props) {
                 <tr>
                 <th>ID</th>
                 <th>NOME</th>
-                <th>USÁRIO</th>
+                <th>USUÁRIO</th>
                 <th>E-MAIL</th>
                 </tr>
             </thead>   
