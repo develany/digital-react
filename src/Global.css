@@ -1,4 +1,4 @@
-#app {
+#app{
     display: flex;
     gap: 1rem;
 }
@@ -32,4 +32,26 @@
 .btn.danger:active {
     color: #ffffffcb;
     background-color: #f52c2c86;
+}
+#tabela{
+    margin: 20px;
+
+}
+#tabela>table{
+    border: 5px solid black;
+}
+th{
+    border-bottom: 3px solid black;
+    width: 200px;
+    height: 30px;
+    font: normal bolder 1em 'Arial';
+    background-color: #cfcfcf;
+}
+
+td{
+    width: 200px;
+    height: 30px;
+    font: normal bold 0.8em 'Arial';
+    text-align: center;
+    background-color: #cfcfcf7e;
 }
