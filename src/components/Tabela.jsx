@@ -10,7 +10,7 @@ function Tabela (props) {
                 </tr>
             </thead>   
             <tbody>
-                {props.data.map(props => (
+                {props.dados.map(props => (
           <tr key={props.id}>
             <td>{props.id}</td>
             <td>{props.nome}</td>
